@@ -193,7 +193,7 @@ ul#nav li a {
    line-height: 32px;
    text-decoration: none;
    text-align: left;
-   color: #a55d35;
+   color: #8c9239;
 
    -webkit-transition: color .2s ease-in-out;
    -moz-transition: color .2s ease-in-out;
@@ -217,7 +217,7 @@ ul#nav li.current a {
 
 #about {
    /* background-image: linear-gradient(transparent, black 10%, transparent); */
-   background: #a55d35;
+   background: #8c9239;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
