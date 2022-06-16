@@ -7,8 +7,8 @@
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "bt283@cornell.edu",
     "phone": "408-834-6568",
-    "github": "https://github.com/nordicgiant2/react-nice-resume",
-    "project": "https://github.com/nordicgiant2/react-nice-resume",
+    "github": "https://github.com/benjamin0t",
+    "project": "https://github.com/benjamin0t/website",
     "address": {
       "street": "(Your Street)",
       "city": "SF Bay Area",
@@ -20,142 +20,118 @@
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "https://www.linkedin.com/in/benjamint-xyz/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "url": "https://github.com/benjamin0t",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here are some my skills!",
     "education": [
       {
         "school": "Cornell University",
         "degree": "B.S. Computer Science. Minors in Business and Robotics.",
         "graduated": "May 2025",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "3.85 GPA. Dean's List. Meinig Family Cornell National Scholar. Corporate Officer @ Association of Computer Science Undergrads. Software Developer @ Design & Tech Initiative. Member of Cornell Undergraduate Research Board."
       },
       {
         "school": "Monta Vista High School",
-        "degree": "High School",
+        "degree": "HS Diploma",
         "graduated": "June 2021",
-        "description": "Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description": "AP Physics C Teaching Assistant. Director of Marketing & PR @ MV Robotics Team."
       }
     ],
     "work": [
       {
-        "company": "Verizon",
+        "company": "Verizon ✓",
         "title": "Software Development Intern",
         "years": "June 2022 - August 2022",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "In progress."
       },
       {
         "company": "Applied Computing Foundation",
-        "title": "Startup Coach",
+        "title": "Startup Coach, Co-Founder of Monthly App Challenge",
         "years": "March 2022 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "description": "Devised year-long curriculum for student startups to ensure efficient ideation, development, and market entry. Currently mentoring an 4-person entreprenuership team. Coordinated weekly web dev workshops for ~30 students worldwide to apply CS in real-world projects. Bolstered workshop attendance by 600% in half year. Co-authored books+videos to increase global outreach."
+      },
+      {
+        "company": "Stanford Medicine",
+        "title": "Bioinformatics Research Assistant",
+        "years": "June 2021 - August 2021",
+        "description": "Sequenced human and equine genes using DESeq and edgeR. Analyzed data using R data visualization. Presented research of gene expression and risk of knee osteoarthritis."
       }
     ],
     "skills": [
       {
-        "name": "Object Oriented Programming (Java, Python, C++)",
-        "level": "80%"
+        "name": "Frontend (JavaScript, TypeScript, React, HTML/CSS)",
+        "level": "60%"
       },
       {
-        "name": "Functional Programming (OCaml)",
-        "level": "40%"
-      },
-      {
-        "name": "Frontend Development (JavaScript, TypeScript, React, HTML/CSS)",
-        "level": "50%"
-      },
-      {
-        "name": "Backend Development + Databases (Firebase, Flask, SQLite)",
-        "level": "50%"
+        "name": "Backend + Databases (Firebase, Flask, SQLite)",
+        "level": "70%"
       },
       {
         "name": "Data Analysis/Machine Learning (Python, R)",
         "level": "50%"
+      },
+      {
+        "name": "Object Oriented Programming (Java, Python, C++)",
+        "level": "90%"
+      },
+      {
+        "name": "Functional Programming (OCaml)",
+        "level": "40%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "01.jpg",
+        "title": "Reservations Required",
+        "category": "Personal",
+        "image": "laptop.jpg",
         "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "03.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "04.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "05.jpg",
-        "url": "http://www.smirkspace.com"
-      },
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "06.jpg",
+        "title": "Circus",
+        "category": "Hackathon",
+        "image": "laptop.jpg",
         "url": "https://www.canadianwanderlust.com"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "01.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "02.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "03.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "04.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "05.jpg",
-        "url": "http://www.smirkspace.com"
-      },
-      {
-        "title": "Canadian Wanderlust",
-        "category": "My Travel Blog for my post-university travels",
-        "image": "06.jpg",
+        "title": "Zing",
+        "category": "Cornell",
+        "image": "laptop.jpg",
         "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Cars 4: Not a Pixar Movie",
+        "category": "Cornell",
+        "image": "laptop.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "VOBYUS",
+        "category": "Personal",
+        "image": "laptop.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Monthly App Challenge",
+        "category": "ACF",
+        "image": "laptop.jpg",
+        "url": "https://www.applied-computing.org"
+      },
+      {
+        "title": "AI Art Critic",
+        "category": "Personal",
+        "image": "laptop.jpg",
+        "url": "http://www.aiartcritic.com"
       }
     ]
   }
