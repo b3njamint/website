@@ -11,142 +11,121 @@
     "project": "https://github.com/benjamin0t/website",
     "address": {
       "street": "(Your Street)",
-      "city": "SF Bay Area",
+      "city": "Bay Area",
       "state": "(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "http://www.benjamint.xyz",
-    "resumedownload": "http://www.benjamint.xyz",
+    "resumedownload": "https://drive.google.com/file/d/1cWJBDHjoZJ6Y6rob78qcmtfa-o7NnBUY/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/benjamint-xyz/",
+        "url": "https://www.linkedin.com/in/b3njamint/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/benjamin0t",
+        "url": "https://github.com/b3njamint",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here are some my skills!",
     "education": [
       {
         "school": "Cornell University",
-        "degree": "B.S. Computer Science. Minors in Business and Robotics.",
+        "degree": "B.S. Computer Science | Math, Business, Robotics",
         "graduated": "May 2025",
-        "description": "3.85 GPA. Dean's List. Meinig Family Cornell National Scholar. Corporate Officer @ Association of Computer Science Undergrads. Software Developer @ Design & Tech Initiative. Member of Cornell Undergraduate Research Board."
+        "description": "3.9 GPA. Dean's List | Meinig National Scholar | Organizations: Corporate Officer @ Association of Computer Science Undergrads. Software Developer @ Design & Tech Initiative. Cornell Undergraduate Research Board. Chinese Student Association."
       },
       {
         "school": "Monta Vista High School",
         "degree": "HS Diploma",
         "graduated": "June 2021",
-        "description": "AP Physics C Teaching Assistant. Director of Marketing & PR @ MV Robotics Team."
+        "description": "4.3 GPA | Organizations: AP Physics C Teaching Assistant. Director of Marketing & PR @ MV Robotics Team."
       }
     ],
     "work": [
       {
         "company": "Verizon ✓",
-        "title": "Software Development Intern",
+        "title": "Software Engineering Intern",
         "years": "June 2022 - August 2022",
-        "description": "In progress."
+        "description": "Automated DNS reroutes in AWS Route 53 for thousands of video calls, increasing efficiency by 10x and eliminating human error, using JavaScript and Node.js. Created tools to simplify IPMI configurations, and DHCP reservations; automating machine inventory, configuration, and deployment, saving 60 man-hours every few months, using Python, Bash and Device42 API. Designing software solutions to scale up NetOps team; researching with minimal supervision."
+      },
+      {
+        "company": "Cornell Design & Tech Initiative",
+        "title": "Software Developer",
+        "years": "August 2021 – Present",
+        "description": "Automated DNS reroutes in AWS Route 53 for thousands of video calls, increasing efficiency by 10x and eliminating human error, using JavaScript and Node.js. Created tools to simplify IPMI configurations, and DHCP reservations; automating machine inventory, configuration, and deployment, saving 60 man-hours every few months, using Python, Bash and Device42 API. Designing software solutions to scale up NetOps team; researching with minimal supervision."
       },
       {
         "company": "Applied Computing Foundation",
-        "title": "Startup Coach, Co-Founder of Monthly App Challenge",
+        "title": "Program Management Intern",
         "years": "March 2022 - Present",
-        "description": "Devised year-long curriculum for student startups to ensure efficient ideation, development, and market entry. Currently mentoring an 4-person entreprenuership team. Coordinated weekly web dev workshops for ~30 students worldwide to apply CS in real-world projects. Bolstered workshop attendance by 600% in half year. Co-authored books+videos to increase global outreach."
+        "description": "Co-founded the Monthly App Challenge program, led weekly web dev workshops for 20-50 students worldwide to solve real-world problems with tech, bolstered attendance by 600% in half year. Revamped website UI/UX and surged page traffic by 4x, used HTML, CSS, and JavaScript. Devised 1 year curriculum for 30+ student startups, supporting innovation, rapid development, and efficient market entry. Coaching a student tech startup to solve mental health for space industries, using React and NLP."
       },
       {
         "company": "Stanford Medicine",
         "title": "Bioinformatics Research Assistant",
         "years": "June 2021 - August 2021",
-        "description": "Sequenced human and equine genes using DESeq and edgeR. Analyzed data using R data visualization. Presented research of gene expression and risk of knee osteoarthritis."
+        "description": "Normalized, visualized, and performed differential analysis on human and equine genes using R, DESeq2, and EdgeR. Presented research on how gene expression can influence the risk of knee osteoarthritis."
       }
     ],
     "projects": [
       {
-        "title": "VOBYUS: Next-Generation Car Dashboard",
-        "time": "2020-2021",
-        "link": "benjamint.xyz",
-        "description": "Co-founded entrepreneurship team of 4 students. Spearheaded development of smart car dashboard to eliminate drowsy/distracted vehicle accidents using personalized AI. Detects drowsiness with 85% accuracy by recognizing blink patterns"
+        "title": "Circus: Connecting Freelancing Services",
+        "time": "2022",
+        "link": "https://github.com/jjennifergu/freelance-marketplace-backend",
+        "description": "Built a scalable iOS app to connect Cornell students to on-campus freelance services, using Python and Swift. Led backend development, writing 15+ routes using Flask, implemented token-based authentication with OAuth, architected the database in SQLite and SQLAlchemy, and containzerized and deployed using Docker and Google Cloud. Awarded Best Frontend/UI by Cornell App Development out of 30+ teams."
       },
       {
         "title": "Cars 4: Not a Pixar Movie",
         "time": "2021",
-        "link": "benjamint.xyz",
-        "description": "Co-founded entrepreneurship team of 4 students. Spearheaded development of smart car dashboard to eliminate drowsy/distracted vehicle accidents using personalized AI. Detects drowsiness with 85% accuracy by recognizing blink patterns"
+        "link": "https://github.com/DylanTom/info-final-project/blob/main/INFO%201998%20Final%20Project.ipynb",
+        "description": "Predicted car manufacturer and price from 427,000 instances and 20+ features. Trained linear regression, KNN classification, and decision tree classifier models in Python. Performed extensive data analysis and visualization using Jupyter and Matplotlib."
+      },
+      {
+        "title": "Vobyus: AI Car Dashboard",
+        "time": "(deactivated website) 2020-2021",
+        "link": "(deactivated website)",
+        "description": "Co-founded student entrepreneurship team, won 1st place at the 2021 Model Entrepreneur Competition by Columbia Business School and recognized as a Conrad Innovator. Led development of smart car dashboard, detecting drowsiness with 85% accurcy to prevent vehicle accidents, used JavaScript, Python, TensorFlow."
+      },
+      {
+        "title": "AI Art Critic",
+        "time": "2020",
+        "link": "https://aiartcritic.com",
+        "description": "Trained classification models with 25,000 images to critique art, designed algorithms to analyze pixels in Python. Developed a website using Django and hosted on Google Cloud."
       }
     ],
+    "skillmessage": "Here are some my skills!",
     "skills": [
       {
         "name": "Frontend (JavaScript, TypeScript, React, HTML/CSS)",
-        "level": "60%"
+        "level": "70%"
       },
       {
-        "name": "Backend + Databases (Firebase, Flask, SQLite)",
+        "name": "Backend + Databases (Firebase, Flask, SQL)",
         "level": "70%"
       },
       {
         "name": "Data Analysis/Machine Learning (Python, R)",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "Object Oriented Programming (Java, Python, C++)",
-        "level": "90%"
+        "level": "80%"
       },
       {
         "name": "Functional Programming (OCaml)",
         "level": "40%"
+      },
+      {
+        "name": "Design (Adobe Creative Suite)",
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
-    "art": [
-      {
-        "title": "Reservations Required",
-        "category": "Personal",
-        "image": "laptop.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Circus",
-        "category": "Hackathon",
-        "image": "laptop.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Zing",
-        "category": "Cornell",
-        "image": "laptop.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Cars 4: Not a Pixar Movie",
-        "category": "Cornell",
-        "image": "laptop.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "VOBYUS",
-        "category": "Personal",
-        "image": "laptop.jpg",
-        "url": "https://www.canadianwanderlust.com"
-      },
-      {
-        "title": "Monthly App Challenge",
-        "category": "ACF",
-        "image": "laptop.jpg",
-        "url": "https://www.applied-computing.org"
-      },
-      {
-        "title": "AI Art Critic",
-        "category": "Personal",
-        "image": "laptop.jpg",
-        "url": "http://www.aiartcritic.com"
-      }
-    ]
+    "art": []
   }
 }
