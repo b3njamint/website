@@ -66,6 +66,20 @@
         "description": "Sequenced human and equine genes using DESeq and edgeR. Analyzed data using R data visualization. Presented research of gene expression and risk of knee osteoarthritis."
       }
     ],
+    "projects": [
+      {
+        "title": "VOBYUS: Next-Generation Car Dashboard",
+        "time": "2020-2021",
+        "link": "benjamint.xyz",
+        "description": "Co-founded entrepreneurship team of 4 students. Spearheaded development of smart car dashboard to eliminate drowsy/distracted vehicle accidents using personalized AI. Detects drowsiness with 85% accuracy by recognizing blink patterns"
+      },
+      {
+        "title": "Cars 4: Not a Pixar Movie",
+        "time": "2021",
+        "link": "benjamint.xyz",
+        "description": "Co-founded entrepreneurship team of 4 students. Spearheaded development of smart car dashboard to eliminate drowsy/distracted vehicle accidents using personalized AI. Detects drowsiness with 85% accuracy by recognizing blink patterns"
+      }
+    ],
     "skills": [
       {
         "name": "Frontend (JavaScript, TypeScript, React, HTML/CSS)",
@@ -90,7 +104,7 @@
     ]
   },
   "portfolio": {
-    "projects": [
+    "art": [
       {
         "title": "Reservations Required",
         "category": "Personal",
