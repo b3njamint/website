@@ -46,7 +46,7 @@ class Resume extends Component {
         <div key={projects.title}>
           <h3>{projects.title}</h3>
           <p className="info">
-            {projects.link}
+            <a href={projects.link} target="null">view project</a>
             <span>&bull;</span> <em className="date">{projects.time}</em>
           </p>
           <p>{projects.description}</p>

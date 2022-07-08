@@ -59,7 +59,7 @@ class Header extends Component {
           </ul>
         </nav>
 
-        <div className="row banner">
+        <div className="row banner" background-image="url({laptop})">
           <div className="banner-text">
             <Fade bottom>
               <h1 className="responsive-headline">{name}</h1>
