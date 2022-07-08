@@ -325,7 +325,8 @@ ul#nav li.current a {
 }
 
 .education,
-.work {
+.work,
+.projects {
    margin-bottom: 48px;
    padding-bottom: 24px;
    border-bottom: 1px solid #E8E8E8;

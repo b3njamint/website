@@ -7,14 +7,14 @@ class Portfolio extends Component {
   render() {
     if (!this.props.data) return null;
 
-    const projects = this.props.data.projects.map(function (projects) {
-      let projectImage = "images/portfolio/" + projects.image;
+    const art = this.props.data.art.map(function (art) {
+      let projectImage = "images/portfolio/" + art.image;
 
       return (
         <div key={id++} className="columns portfolio-item">
           <div className="item-wrap">
-            <Zmage alt={projects.title} src={projectImage} />
-            <div style={{ textAlign: "center" }}>{projects.title}</div>
+            <Zmage alt={art.title} src={projectImage} />
+            <div style={{ textAlign: "center" }}>{art.title}</div>
           </div>
         </div>
       );
@@ -31,7 +31,7 @@ class Portfolio extends Component {
                 id="portfolio-wrapper"
                 className="bgrid-quarters s-bgrid-thirds cf"
               >
-                {projects}
+                {art}
               </div>
             </div>
           </div>
