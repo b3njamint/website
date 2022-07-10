@@ -16,7 +16,7 @@ class Header extends Component {
       <header id="home">
         {/* <ParticlesBg type="circle" bg={true} /> */}
         <Fade left duration={1000} distance="100px">
-          <img src={laptop}></img>
+          <img src={laptop} position="absolute"></img>
         </Fade>
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
