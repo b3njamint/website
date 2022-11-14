@@ -101,27 +101,31 @@
     "skills": [
       {
         "name": "Frontend (JavaScript, TypeScript, React, HTML/CSS)",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "Backend + Databases (Firebase, Flask, SQL)",
+        "level": "80%"
+      },
+      {
+        "name": "Cloud Computing Services (AWS, GCP, Azure)",
         "level": "70%"
       },
       {
         "name": "Data Analysis/Machine Learning (Python, R)",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "Object Oriented Programming (Java, Python, C++)",
-        "level": "80%"
+        "level": "90%"
       },
       {
         "name": "Functional Programming (OCaml)",
-        "level": "40%"
+        "level": "80%"
       },
       {
-        "name": "Design (Adobe Creative Suite)",
-        "level": "70%"
+        "name": "Design (Adobe Creative Suite, Figma)",
+        "level": "60%"
       }
     ]
   },
