@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Benjamin Tang",
-    "description": "Computer Science, Business, Robotics @ Cornell. Class of 2025",
+    "description": "Computer Science, Business, Robotics @ Cornell.",
     "image": "pfp.jpg",
     "bio": "Quick learner seeking to gain experience in software development and robotics with proven skills in Java and collaboration. Eager to discover new insights by synthesizing technology, business, and art. Named as a Meinig Scholar, awarded to 1.3% of Cornell undergrads for leadership and academic excellence.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
@@ -35,7 +35,7 @@
       {
         "school": "Cornell University",
         "degree": "B.S. Computer Science | Math, Business, Robotics",
-        "graduated": "May 2025",
+        "graduated": "May 2024",
         "description": "3.9 GPA. Dean's List | Meinig National Scholar | Organizations: Corporate Officer @ Association of Computer Science Undergrads. Software Developer @ Design & Tech Initiative. Cornell Undergraduate Research Board. Chinese Student Association."
       },
       {
