@@ -103,8 +103,35 @@
         "description": "Trained classification models with 25,000 images to critique art, designed algorithms to analyze pixels in Python. Developed a website using Django and hosted on Google Cloud."
       }
     ],
-    "skillmessage": "",
-    "skills": []
+    "skillmessage": "Here are some of my skills!",
+    "skills": [ {
+        "name": "Frontend (JavaScript, TypeScript, React, HTML/CSS)",
+        "level": "80%"
+      },
+      {
+        "name": "Backend + Databases (Firebase, Flask, SQL)",
+        "level": ""
+      },
+      {
+        "name": "Cloud Computing Services (AWS, GCP, Azure)",
+        "level": "70%"
+      },
+      {
+        "name": "Data Analysis/Machine Learning (Python, R)",
+        "level": "70%"
+      },
+      {
+        "name": "OO Programming/Data Structures (Java, Python, C++)",
+        "level": "90%"
+      },
+      {
+        "name": "Functional Programming (OCaml)",
+        "level": "80%"
+      },
+      {
+        "name": "Design (Adobe Creative Suite, Figma)",
+        "level": "60%"
+      }]
   },
   "portfolio": {
     "art": []
