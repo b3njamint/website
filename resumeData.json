@@ -110,19 +110,19 @@
       },
       {
         "name": "Backend + Databases (Firebase, Flask, SQL)",
-        "level": ""
+        "level": "85%"
       },
       {
         "name": "Cloud Computing Services (AWS, GCP, Azure)",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "Data Analysis/Machine Learning (Python, R)",
-        "level": "70%"
+        "level": "75%"
       },
       {
         "name": "OO Programming/Data Structures (Java, Python, C++)",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "Functional Programming (OCaml)",
@@ -130,7 +130,7 @@
       },
       {
         "name": "Design (Adobe Creative Suite, Figma)",
-        "level": "60%"
+        "level": "70%"
       }]
   },
   "portfolio": {
