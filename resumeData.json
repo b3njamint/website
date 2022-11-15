@@ -50,19 +50,25 @@
         "company": "Verizon ✓",
         "title": "Software Engineering Intern",
         "years": "June 2022 - August 2022",
-        "description": "Automated DNS reroutes in AWS Route 53 for thousands of video calls, increasing efficiency by 10x and eliminating human error, using JavaScript and Node.js. Created tools to simplify IPMI configurations, and DHCP reservations; automating machine inventory, configuration, and deployment, saving 60 man-hours every few months, using Python, Bash and Device42 API. Designing software solutions to scale up NetOps team; researching with minimal supervision."
+        "description": "Automated DNS reroutes in AWS, Route 53 for thousands of video calls, cutting time to resolution by 80% and minimizing self-induced outages, incorporated data validation, using JavaScript and Node.js. Streamlined server deployment: automated IPMI configurations, DHCP reservations, and machine inventory; saving 96 man-hours annually and eliminating human error, using Python, Bash, and Device42 API. Implemented a scalable SSD health-monitoring feature for 3000+ servers to eliminate storage-induced outages, predict time to failure by analyzing usage trends, using Intel MAS."
+      },
+      {
+        "company": "Cornell University CIS",
+        "title": "Data Structures + OO Programming Teaching Assistant",
+        "years": "August 2022 – Present",
+        "description": "Course staff for a record class of 670+ students; developing tools to optimize grading workflow. Facilitating discussion sections of 48 students, holding weekly office hours, and moderating discussion boards."
       },
       {
         "company": "Cornell Design & Tech Initiative",
         "title": "Software Developer",
         "years": "August 2021 – Present",
-        "description": "Automated DNS reroutes in AWS Route 53 for thousands of video calls, increasing efficiency by 10x and eliminating human error, using JavaScript and Node.js. Created tools to simplify IPMI configurations, and DHCP reservations; automating machine inventory, configuration, and deployment, saving 60 man-hours every few months, using Python, Bash and Device42 API. Designing software solutions to scale up NetOps team; researching with minimal supervision."
+        "description": "Working on Zing, an app to optimize student grouping with nearly 1000 users from 300+ courses. Built search bar + loading screen for Zing using TypeScript, React, and MUI, enabled cross-listed classes in Firebase, used React hooks to standardize URLs, and redesigning emailing feature with Azure."
       },
       {
         "company": "Applied Computing Foundation",
         "title": "Program Management Intern",
         "years": "March 2022 - Present",
-        "description": "Co-founded the Monthly App Challenge program, led weekly web dev workshops for 20-50 students worldwide to solve real-world problems with tech, bolstered attendance by 700% in half year. Revamped website UI/UX and surged page traffic by 4x, used HTML, CSS, and JavaScript. Devised 1 year curriculum for 30+ student startups, supporting innovation, rapid development, and efficient market entry. Coaching a student tech startup to solve mental health for space industries, using React and NLP."
+        "description": "Co-founded the Monthly App Challenge program, led weekly web dev workshops for 20-50 students worldwide to solve real-world problems with tech, bolstered attendance by 700% in half year. Revamped website UI/UX and surged page traffic by 4x, used HTML, CSS, and JavaScript. Devised 1 year curriculum for 30+ student startups, supporting innovation, rapid development, and efficient market entry. Coaching a student tech startup to solve mental health for space industries, using React and Machine Learning."
       },
       {
         "company": "Stanford Medicine",
@@ -76,7 +82,7 @@
         "title": "Circus: Connecting Freelancing Services",
         "time": "2022",
         "link": "https://github.com/jjennifergu/freelance-marketplace-backend",
-        "description": "Built a scalable iOS app to connect Cornell students to on-campus freelance services, using Python and Swift. Led backend development, writing 15+ routes using Flask, implemented token-based authentication with OAuth, architected the database in SQLite and SQLAlchemy, and containzerized and deployed using Docker and Google Cloud. Awarded Best Frontend/UI by Cornell App Development out of 30+ teams."
+        "description": "Built a scalable iOS app to connect Cornell students with the freelancing community, using Python and Swift. Wrote 15+ REST API endpoints using Flask, implemented session-based authentication, architected database in SQLite and SQLAlchemy, and containerized/deployed using Docker and GCP. Awarded Best Frontend/UI by Cornell App Development out of 150+ students."
       },
       {
         "title": "Cars 4: Not a Pixar Movie",
@@ -97,37 +103,8 @@
         "description": "Trained classification models with 25,000 images to critique art, designed algorithms to analyze pixels in Python. Developed a website using Django and hosted on Google Cloud."
       }
     ],
-    "skillmessage": "Here are some my skills!",
-    "skills": [
-      {
-        "name": "Frontend (JavaScript, TypeScript, React, HTML/CSS)",
-        "level": "80%"
-      },
-      {
-        "name": "Backend + Databases (Firebase, Flask, SQL)",
-        "level": "80%"
-      },
-      {
-        "name": "Cloud Computing Services (AWS, GCP, Azure)",
-        "level": "70%"
-      },
-      {
-        "name": "Data Analysis/Machine Learning (Python, R)",
-        "level": "70%"
-      },
-      {
-        "name": "Object Oriented Programming (Java, Python, C++)",
-        "level": "90%"
-      },
-      {
-        "name": "Functional Programming (OCaml)",
-        "level": "80%"
-      },
-      {
-        "name": "Design (Adobe Creative Suite, Figma)",
-        "level": "60%"
-      }
-    ]
+    "skillmessage": "",
+    "skills": []
   },
   "portfolio": {
     "art": []
